@@ -1,0 +1,1462 @@
+[
+  {
+    "Food_EN":"Hummus, commercial",
+    "Food_TR":"Hummus"
+  },
+  {
+    "Food_EN":"Tomatoes, grape, raw",
+    "Food_TR":"Üzüm (çiğ)"
+  },
+  {
+    "Food_EN":"Beans, snap, green, canned, regular pack, drained solids",
+    "Food_TR":"Fasulye (konserve)"
+  },
+  {
+    "Food_EN":"Frankfurter, beef, unheated",
+    "Food_TR":"Dana Eti"
+  },
+  {
+    "Food_EN":"Nuts, almonds, dry roasted, with salt added",
+    "Food_TR":"Badem"
+  },
+  {
+    "Food_EN":"Kale, raw",
+    "Food_TR":"Kara Lahana (çiğ)"
+  },
+  {
+    "Food_EN":"Egg, whole, raw, frozen, pasteurized",
+    "Food_TR":"Yumurta (çiğ, dondurulmuş)"
+  },
+  {
+    "Food_EN":"Egg, white, raw, frozen, pasteurized",
+    "Food_TR":"Yumurta (çiğ, dondurulmuş)"
+  },
+  {
+    "Food_EN":"Egg, white, dried",
+    "Food_TR":"Yumurta (kurutulmuş)"
+  },
+  {
+    "Food_EN":"Onion rings, breaded, par fried, frozen, prepared, heated in oven",
+    "Food_TR":"Ekmek (dondurulmuş)"
+  },
+  {
+    "Food_EN":"Pickles, cucumber, dill or kosher dill",
+    "Food_TR":"Salatalık"
+  },
+  {
+    "Food_EN":"Cheese, parmesan, grated",
+    "Food_TR":"Peynir"
+  },
+  {
+    "Food_EN":"Cheese, pasteurized process, American, vitamin D fortified",
+    "Food_TR":"Peynir"
+  },
+  {
+    "Food_EN":"Grapefruit juice, white, canned or bottled, unsweetened",
+    "Food_TR":"Üzüm (konserve, şekersiz)"
+  },
+  {
+    "Food_EN":"Peaches, yellow, raw",
+    "Food_TR":"Peaches (çiğ)"
+  },
+  {
+    "Food_EN":"Seeds, sunflower seed kernels, dry roasted, with salt added",
+    "Food_TR":"Seeds"
+  },
+  {
+    "Food_EN":"Bread, white, commercially prepared",
+    "Food_TR":"Ekmek"
+  },
+  {
+    "Food_EN":"Kale, frozen, cooked, boiled, drained, without salt",
+    "Food_TR":"Kara Lahana (dondurulmuş)"
+  },
+  {
+    "Food_EN":"Mustard, prepared, yellow",
+    "Food_TR":"Mustard"
+  },
+  {
+    "Food_EN":"Kiwifruit, green, raw",
+    "Food_TR":"Kiwifruit (çiğ)"
+  },
+  {
+    "Food_EN":"Nectarines, raw",
+    "Food_TR":"Nectarines (çiğ)"
+  },
+  {
+    "Food_EN":"Cheese, cheddar",
+    "Food_TR":"Peynir"
+  },
+  {
+    "Food_EN":"Cheese, cottage, lowfat, 2% milkfat",
+    "Food_TR":"Peynir"
+  },
+  {
+    "Food_EN":"Cheese, mozzarella, low moisture, part-skim",
+    "Food_TR":"Peynir"
+  },
+  {
+    "Food_EN":"Egg, whole, dried",
+    "Food_TR":"Yumurta (kurutulmuş)"
+  },
+  {
+    "Food_EN":"Egg, yolk, raw, frozen, pasteurized",
+    "Food_TR":"Yumurta (çiğ, dondurulmuş)"
+  },
+  {
+    "Food_EN":"Egg, yolk, dried",
+    "Food_TR":"Yumurta (kurutulmuş)"
+  },
+  {
+    "Food_EN":"Yogurt, Greek, plain, nonfat",
+    "Food_TR":"Yoğurt (yağsız)"
+  },
+  {
+    "Food_EN":"Yogurt, Greek, strawberry, nonfat",
+    "Food_TR":"Yoğurt (çiğ, yağsız)"
+  },
+  {
+    "Food_EN":"Oil, coconut",
+    "Food_TR":"Yağ"
+  },
+  {
+    "Food_EN":"Chicken, broilers or fryers, drumstick, meat only, cooked, braised",
+    "Food_TR":"Tavuk"
+  },
+  {
+    "Food_EN":"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",
+    "Food_TR":"Tavuk"
+  },
+  {
+    "Food_EN":"Sauce, pasta, spaghetti\/marinara, ready-to-serve",
+    "Food_TR":"Sauce"
+  },
+  {
+    "Food_EN":"Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",
+    "Food_TR":"Jambon"
+  },
+  {
+    "Food_EN":"Olives, green, Manzanilla, stuffed with pimiento",
+    "Food_TR":"Olives"
+  },
+  {
+    "Food_EN":"Cookies, oatmeal, soft, with raisins",
+    "Food_TR":"Cookies"
+  },
+  {
+    "Food_EN":"Tomatoes, canned, red, ripe, diced",
+    "Food_TR":"Domates (konserve)"
+  },
+  {
+    "Food_EN":"Fish, haddock, raw",
+    "Food_TR":"Balık (çiğ)"
+  },
+  {
+    "Food_EN":"Fish, pollock, raw",
+    "Food_TR":"Balık (çiğ)"
+  },
+  {
+    "Food_EN":"Fish, tuna, light, canned in water, drained solids",
+    "Food_TR":"Balık (konserve)"
+  },
+  {
+    "Food_EN":"Restaurant, Chinese, fried rice, without meat",
+    "Food_TR":"Pirinç"
+  },
+  {
+    "Food_EN":"Restaurant, Latino, tamale, pork",
+    "Food_TR":"Domuz Eti"
+  },
+  {
+    "Food_EN":"Restaurant, Latino, pupusas con frijoles (pupusas, bean)",
+    "Food_TR":"Fasulye"
+  },
+  {
+    "Food_EN":"Bread, whole-wheat, commercially prepared",
+    "Food_TR":"Ekmek"
+  },
+  {
+    "Food_EN":"Beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0\" fat, select, cooked, roasted",
+    "Food_TR":"Dana Eti"
+  },
+  {
+    "Food_EN":"Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1\/8\" fat, choice, raw",
+    "Food_TR":"Dana Eti (çiğ)"
+  },
+  {
+    "Food_EN":"Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0\" fat, select, raw",
+    "Food_TR":"Dana Eti (çiğ)"
+  },
+  {
+    "Food_EN":"Beef, round, top round roast, boneless, separable lean only, trimmed to 0\" fat, select, raw",
+    "Food_TR":"Dana Eti (çiğ)"
+  },
+  {
+    "Food_EN":"Beef, short loin, porterhouse steak, separable lean only, trimmed to 1\/8\" fat, select, raw",
+    "Food_TR":"Dana Eti (çiğ)"
+  },
+  {
+    "Food_EN":"Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1\/8\" fat, choice, cooked, grilled",
+    "Food_TR":"Dana Eti"
+  },
+  {
+    "Food_EN":"Carrots, frozen, unprepared",
+    "Food_TR":"Havuç (dondurulmuş)"
+  },
+  {
+    "Food_EN":"Cheese, dry white, queso seco",
+    "Food_TR":"Peynir"
+  },
+  {
+    "Food_EN":"Cheese, ricotta, whole milk",
+    "Food_TR":"Peynir (tam yağlı)"
+  },
+  {
+    "Food_EN":"Cheese, swiss",
+    "Food_TR":"Peynir"
+  },
+  {
+    "Food_EN":"Figs, dried, uncooked",
+    "Food_TR":"İncir (kurutulmuş)"
+  },
+  {
+    "Food_EN":"Lettuce, cos or romaine, raw",
+    "Food_TR":"Marul (çiğ)"
+  },
+  {
+    "Food_EN":"Melons, cantaloupe, raw",
+    "Food_TR":"Melons (çiğ)"
+  },
+  {
+    "Food_EN":"Oranges, raw, navels",
+    "Food_TR":"Portakal (çiğ)"
+  },
+  {
+    "Food_EN":"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",
+    "Food_TR":"Süt"
+  },
+  {
+    "Food_EN":"Pears, raw, bartlett",
+    "Food_TR":"Pears (çiğ)"
+  },
+  {
+    "Food_EN":"Restaurant, Chinese, sweet and sour pork",
+    "Food_TR":"Domuz Eti"
+  },
+  {
+    "Food_EN":"Salt, table, iodized",
+    "Food_TR":"Salt"
+  },
+  {
+    "Food_EN":"Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",
+    "Food_TR":"Süt (yağsız)"
+  },
+  {
+    "Food_EN":"Sauce, salsa, ready-to-serve",
+    "Food_TR":"Sauce"
+  },
+  {
+    "Food_EN":"Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",
+    "Food_TR":"Süt"
+  },
+  {
+    "Food_EN":"Sausage, breakfast sausage, beef, pre-cooked, unprepared",
+    "Food_TR":"Dana Eti"
+  },
+  {
+    "Food_EN":"Sausage, Italian, pork, mild, cooked, pan-fried",
+    "Food_TR":"Domuz Eti"
+  },
+  {
+    "Food_EN":"Sausage, pork, chorizo, link or ground, cooked, pan-fried",
+    "Food_TR":"Domuz Eti"
+  },
+  {
+    "Food_EN":"Milk, whole, 3.25% milkfat, with added vitamin D",
+    "Food_TR":"Süt"
+  },
+  {
+    "Food_EN":"Sausage, turkey, breakfast links, mild, raw",
+    "Food_TR":"Hindi (çiğ)"
+  },
+  {
+    "Food_EN":"Sugars, granulated",
+    "Food_TR":"Sugars"
+  },
+  {
+    "Food_EN":"Turkey, ground, 93% lean, 7% fat, pan-broiled crumbles",
+    "Food_TR":"Yağ"
+  },
+  {
+    "Food_EN":"Ham, sliced, restaurant",
+    "Food_TR":"Jambon"
+  },
+  {
+    "Food_EN":"Cheese, American, restaurant",
+    "Food_TR":"Peynir"
+  },
+  {
+    "Food_EN":"Beans, Dry, Medium Red (0% moisture)",
+    "Food_TR":"Fasulye"
+  },
+  {
+    "Food_EN":"Beans, Dry, Red (0% moisture)",
+    "Food_TR":"Fasulye"
+  },
+  {
+    "Food_EN":"Beans, Dry, Flor de Mayo (0% moisture)",
+    "Food_TR":"Fasulye"
+  },
+  {
+    "Food_EN":"Beans, Dry, Brown (0% moisture)",
+    "Food_TR":"Fasulye"
+  },
+  {
+    "Food_EN":"Beans, Dry, Tan (0% moisture)",
+    "Food_TR":"Fasulye"
+  },
+  {
+    "Food_EN":"Beans, Dry, Light Tan (0% moisture)",
+    "Food_TR":"Fasulye"
+  },
+  {
+    "Food_EN":"Beans, Dry, Carioca (0% moisture)",
+    "Food_TR":"Fasulye"
+  },
+  {
+    "Food_EN":"Beans, Dry, Cranberry (0% moisture)",
+    "Food_TR":"Fasulye"
+  },
+  {
+    "Food_EN":"Beans, Dry, Light Red Kidney (0% moisture)",
+    "Food_TR":"Fasulye"
+  },
+  {
+    "Food_EN":"Beans, Dry, Pink (0% moisture)",
+    "Food_TR":"Fasulye"
+  },
+  {
+    "Food_EN":"Beans, Dry, Dark Red Kidney (0% moisture)",
+    "Food_TR":"Fasulye"
+  },
+  {
+    "Food_EN":"Beans, Dry, Navy (0% moisture)",
+    "Food_TR":"Fasulye"
+  },
+  {
+    "Food_EN":"Beans, Dry, Small White (0% moisture)",
+    "Food_TR":"Fasulye"
+  },
+  {
+    "Food_EN":"Beans, Dry, Small Red (0% moisture)",
+    "Food_TR":"Fasulye"
+  },
+  {
+    "Food_EN":"Beans, Dry, Black (0% moisture)",
+    "Food_TR":"Fasulye"
+  },
+  {
+    "Food_EN":"Beans, Dry, Pinto (0% moisture)",
+    "Food_TR":"Fasulye"
+  },
+  {
+    "Food_EN":"Beans, Dry, Great Northern (0% moisture)",
+    "Food_TR":"Fasulye"
+  },
+  {
+    "Food_EN":"Broccoli, raw",
+    "Food_TR":"Brokoli (çiğ)"
+  },
+  {
+    "Food_EN":"Ketchup, restaurant",
+    "Food_TR":"Ketchup"
+  },
+  {
+    "Food_EN":"Eggs, Grade A, Large, egg white",
+    "Food_TR":"Yumurta"
+  },
+  {
+    "Food_EN":"Eggs, Grade A, Large, egg yolk",
+    "Food_TR":"Yumurta"
+  },
+  {
+    "Food_EN":"Oil, canola",
+    "Food_TR":"Yağ"
+  },
+  {
+    "Food_EN":"Oil, corn",
+    "Food_TR":"Yağ"
+  },
+  {
+    "Food_EN":"Oil, soybean",
+    "Food_TR":"Fasulye"
+  },
+  {
+    "Food_EN":"Oil, olive, extra virgin",
+    "Food_TR":"Yağ"
+  },
+  {
+    "Food_EN":"Eggs, Grade A, Large, egg whole",
+    "Food_TR":"Yumurta"
+  },
+  {
+    "Food_EN":"Pork, cured, bacon, cooked, restaurant",
+    "Food_TR":"Domuz Eti"
+  },
+  {
+    "Food_EN":"Butter, stick, unsalted",
+    "Food_TR":"Tereyağı"
+  },
+  {
+    "Food_EN":"Flour, wheat, all-purpose, enriched, bleached",
+    "Food_TR":"Un"
+  },
+  {
+    "Food_EN":"Flour, wheat, all-purpose, enriched, unbleached",
+    "Food_TR":"Un"
+  },
+  {
+    "Food_EN":"Flour, wheat, all-purpose, unenriched, unbleached",
+    "Food_TR":"Un"
+  },
+  {
+    "Food_EN":"Flour, whole wheat, unenriched",
+    "Food_TR":"Un"
+  },
+  {
+    "Food_EN":"Flour, bread, white, enriched, unbleached",
+    "Food_TR":"Ekmek"
+  },
+  {
+    "Food_EN":"Flour, rice, white, unenriched",
+    "Food_TR":"Un"
+  },
+  {
+    "Food_EN":"Flour, corn, yellow, fine meal, enriched",
+    "Food_TR":"Un"
+  },
+  {
+    "Food_EN":"Butter, stick, salted",
+    "Food_TR":"Tereyağı"
+  },
+  {
+    "Food_EN":"Onions, red, raw",
+    "Food_TR":"Soğan (çiğ)"
+  },
+  {
+    "Food_EN":"Onions, yellow, raw",
+    "Food_TR":"Soğan (çiğ)"
+  },
+  {
+    "Food_EN":"Garlic, raw",
+    "Food_TR":"Sarımsak (çiğ)"
+  },
+  {
+    "Food_EN":"Flour, soy, defatted",
+    "Food_TR":"Un"
+  },
+  {
+    "Food_EN":"Flour, soy, full-fat",
+    "Food_TR":"Un"
+  },
+  {
+    "Food_EN":"Flour, rice, brown",
+    "Food_TR":"Un"
+  },
+  {
+    "Food_EN":"Flour, rice, glutinous",
+    "Food_TR":"Un"
+  },
+  {
+    "Food_EN":"Flour, pastry, unenriched, unbleached",
+    "Food_TR":"Un"
+  },
+  {
+    "Food_EN":"Onions, white, raw",
+    "Food_TR":"Soğan (çiğ)"
+  },
+  {
+    "Food_EN":"Bananas, overripe, raw",
+    "Food_TR":"Muz (çiğ)"
+  },
+  {
+    "Food_EN":"Bananas, ripe and slightly ripe, raw",
+    "Food_TR":"Muz (çiğ)"
+  },
+  {
+    "Food_EN":"Apples, red delicious, with skin, raw",
+    "Food_TR":"Elma (çiğ, kabuklu)"
+  },
+  {
+    "Food_EN":"Apples, fuji, with skin, raw",
+    "Food_TR":"Elma (çiğ, kabuklu)"
+  },
+  {
+    "Food_EN":"Apples, gala, with skin, raw",
+    "Food_TR":"Elma (çiğ, kabuklu)"
+  },
+  {
+    "Food_EN":"Apples, granny smith, with skin, raw",
+    "Food_TR":"Elma (çiğ, kabuklu)"
+  },
+  {
+    "Food_EN":"Apples, honeycrisp, with skin, raw",
+    "Food_TR":"Elma (çiğ, kabuklu)"
+  },
+  {
+    "Food_EN":"Oil, peanut",
+    "Food_TR":"Yağ"
+  },
+  {
+    "Food_EN":"Oil, sunflower",
+    "Food_TR":"Yağ"
+  },
+  {
+    "Food_EN":"Oil, safflower",
+    "Food_TR":"Yağ"
+  },
+  {
+    "Food_EN":"Oil, olive, extra light",
+    "Food_TR":"Yağ"
+  },
+  {
+    "Food_EN":"Mushroom, lion's mane",
+    "Food_TR":"Mantar"
+  },
+  {
+    "Food_EN":"Mushroom, oyster",
+    "Food_TR":"Mantar"
+  },
+  {
+    "Food_EN":"Mushrooms, shiitake",
+    "Food_TR":"Mantar"
+  },
+  {
+    "Food_EN":"Mushrooms, white button",
+    "Food_TR":"Mantar"
+  },
+  {
+    "Food_EN":"Soy milk, unsweetened, plain, shelf stable",
+    "Food_TR":"Süt (şekersiz, raf ömrü uzun)"
+  },
+  {
+    "Food_EN":"Almond milk, unsweetened, plain, shelf stable",
+    "Food_TR":"Badem (şekersiz, raf ömrü uzun)"
+  },
+  {
+    "Food_EN":"Spinach, baby",
+    "Food_TR":"Ispanak"
+  },
+  {
+    "Food_EN":"Spinach, mature",
+    "Food_TR":"Ispanak"
+  },
+  {
+    "Food_EN":"Tomato, roma",
+    "Food_TR":"Domates"
+  },
+  {
+    "Food_EN":"Flour, 00",
+    "Food_TR":"Un"
+  },
+  {
+    "Food_EN":"Flour, spelt, whole grain",
+    "Food_TR":"Un"
+  },
+  {
+    "Food_EN":"Flour, semolina, coarse and semi-coarse",
+    "Food_TR":"Un"
+  },
+  {
+    "Food_EN":"Flour, semolina, fine",
+    "Food_TR":"Un"
+  },
+  {
+    "Food_EN":"Apple juice, with added vitamin C, from concentrate, shelf stable",
+    "Food_TR":"Elma (raf ömrü uzun, konsantreden)"
+  },
+  {
+    "Food_EN":"Orange juice, no pulp, not fortified, from concentrate, refrigerated",
+    "Food_TR":"Portakal (konsantreden)"
+  },
+  {
+    "Food_EN":"Grape juice, purple, with added vitamin C, from concentrate, shelf stable",
+    "Food_TR":"Üzüm (raf ömrü uzun, konsantreden)"
+  },
+  {
+    "Food_EN":"Grape juice, white, with added vitamin C, from concentrate, shelf stable",
+    "Food_TR":"Üzüm (raf ömrü uzun, konsantreden)"
+  },
+  {
+    "Food_EN":"Cranberry juice, not fortified, from concentrate, shelf stable",
+    "Food_TR":"Cranberry juice (raf ömrü uzun, konsantreden)"
+  },
+  {
+    "Food_EN":"Grapefruit juice, red, not fortified, not from concentrate, refrigerated",
+    "Food_TR":"Üzüm (konsantreden)"
+  },
+  {
+    "Food_EN":"Tomato juice, with added ingredients, from concentrate, shelf stable",
+    "Food_TR":"Domates (raf ömrü uzun, konsantreden)"
+  },
+  {
+    "Food_EN":"Orange juice, no pulp, not fortified, not from concentrate, refrigerated",
+    "Food_TR":"Portakal (konsantreden)"
+  },
+  {
+    "Food_EN":"Mushroom, portabella",
+    "Food_TR":"Mantar"
+  },
+  {
+    "Food_EN":"Mushroom, king oyster",
+    "Food_TR":"Mantar"
+  },
+  {
+    "Food_EN":"Mushroom, enoki",
+    "Food_TR":"Mantar"
+  },
+  {
+    "Food_EN":"Mushroom, crimini",
+    "Food_TR":"Mantar"
+  },
+  {
+    "Food_EN":"Mushroom, maitake",
+    "Food_TR":"Mantar"
+  },
+  {
+    "Food_EN":"Mushroom, beech",
+    "Food_TR":"Mantar"
+  },
+  {
+    "Food_EN":"Mushroom, pioppini",
+    "Food_TR":"Mantar"
+  },
+  {
+    "Food_EN":"Soy milk, sweetened, plain, refrigerated",
+    "Food_TR":"Süt"
+  },
+  {
+    "Food_EN":"Almond milk, unsweetened, plain, refrigerated",
+    "Food_TR":"Badem (şekersiz)"
+  },
+  {
+    "Food_EN":"Oat milk, unsweetened, plain, refrigerated",
+    "Food_TR":"Süt (şekersiz)"
+  },
+  {
+    "Food_EN":"Carrots, mature, raw",
+    "Food_TR":"Havuç (çiğ)"
+  },
+  {
+    "Food_EN":"Carrots, baby, raw",
+    "Food_TR":"Havuç (çiğ)"
+  },
+  {
+    "Food_EN":"Peppers, bell, green, raw",
+    "Food_TR":"Biber (çiğ)"
+  },
+  {
+    "Food_EN":"Peppers, bell, yellow, raw",
+    "Food_TR":"Biber (çiğ)"
+  },
+  {
+    "Food_EN":"Peppers, bell, red, raw",
+    "Food_TR":"Biber (çiğ)"
+  },
+  {
+    "Food_EN":"Peppers, bell, orange, raw",
+    "Food_TR":"Portakal (çiğ)"
+  },
+  {
+    "Food_EN":"Buttermilk, low fat",
+    "Food_TR":"Tereyağı (az yağlı)"
+  },
+  {
+    "Food_EN":"Yogurt, plain, whole milk",
+    "Food_TR":"Süt (tam yağlı)"
+  },
+  {
+    "Food_EN":"Yogurt, Greek, plain, whole milk",
+    "Food_TR":"Süt (tam yağlı)"
+  },
+  {
+    "Food_EN":"Cheese, parmesan, grated, refrigerated",
+    "Food_TR":"Peynir"
+  },
+  {
+    "Food_EN":"Cheese, feta, whole milk, crumbled",
+    "Food_TR":"Peynir (tam yağlı)"
+  },
+  {
+    "Food_EN":"Flour, almond",
+    "Food_TR":"Badem"
+  },
+  {
+    "Food_EN":"Flour, oat, whole grain",
+    "Food_TR":"Un"
+  },
+  {
+    "Food_EN":"Flour, potato",
+    "Food_TR":"Un"
+  },
+  {
+    "Food_EN":"Peanut butter, creamy",
+    "Food_TR":"Tereyağı"
+  },
+  {
+    "Food_EN":"Sesame butter, creamy",
+    "Food_TR":"Tereyağı"
+  },
+  {
+    "Food_EN":"Almond butter, creamy",
+    "Food_TR":"Badem"
+  },
+  {
+    "Food_EN":"Flaxseed, ground",
+    "Food_TR":"Flaxseed"
+  },
+  {
+    "Food_EN":"Cottage cheese, full fat, large or small curd",
+    "Food_TR":"Peynir"
+  },
+  {
+    "Food_EN":"Cream cheese, full fat, block",
+    "Food_TR":"Peynir"
+  },
+  {
+    "Food_EN":"Cream, heavy",
+    "Food_TR":"Cream"
+  },
+  {
+    "Food_EN":"Cream, sour, full fat",
+    "Food_TR":"Cream"
+  },
+  {
+    "Food_EN":"Lettuce, iceberg, raw",
+    "Food_TR":"Marul (çiğ)"
+  },
+  {
+    "Food_EN":"Lettuce, romaine, green, raw",
+    "Food_TR":"Marul (çiğ)"
+  },
+  {
+    "Food_EN":"Lettuce, leaf, red, raw",
+    "Food_TR":"Marul (çiğ)"
+  },
+  {
+    "Food_EN":"Lettuce, leaf, green, raw",
+    "Food_TR":"Marul (çiğ)"
+  },
+  {
+    "Food_EN":"Nuts, pine nuts, raw",
+    "Food_TR":"Kuruyemiş (çiğ)"
+  },
+  {
+    "Food_EN":"Nuts, almonds, whole, raw",
+    "Food_TR":"Badem (çiğ)"
+  },
+  {
+    "Food_EN":"Nuts, walnuts, English, halves, raw",
+    "Food_TR":"Kuruyemiş (çiğ)"
+  },
+  {
+    "Food_EN":"Nuts, pecans, halves, raw",
+    "Food_TR":"Kuruyemiş (çiğ)"
+  },
+  {
+    "Food_EN":"Oats, whole grain, rolled, old fashioned",
+    "Food_TR":"Yulaf"
+  },
+  {
+    "Food_EN":"Oats, whole grain, steel cut",
+    "Food_TR":"Yulaf"
+  },
+  {
+    "Food_EN":"Pineapple, raw",
+    "Food_TR":"Elma (çiğ)"
+  },
+  {
+    "Food_EN":"Cherries, sweet, dark red, raw",
+    "Food_TR":"Cherries (çiğ)"
+  },
+  {
+    "Food_EN":"Beans, snap, green, raw",
+    "Food_TR":"Fasulye (çiğ)"
+  },
+  {
+    "Food_EN":"Potatoes, russet, without skin, raw",
+    "Food_TR":"Patates (çiğ)"
+  },
+  {
+    "Food_EN":"Potatoes, red, without skin, raw",
+    "Food_TR":"Patates (çiğ)"
+  },
+  {
+    "Food_EN":"Potatoes, gold, without skin, raw",
+    "Food_TR":"Patates (çiğ)"
+  },
+  {
+    "Food_EN":"Sweet potatoes, orange flesh, without skin, raw",
+    "Food_TR":"Portakal (çiğ)"
+  },
+  {
+    "Food_EN":"Celery, raw",
+    "Food_TR":"Celery (çiğ)"
+  },
+  {
+    "Food_EN":"Cucumber, with peel, raw",
+    "Food_TR":"Salatalık (çiğ)"
+  },
+  {
+    "Food_EN":"Cabbage, green, raw",
+    "Food_TR":"Cabbage (çiğ)"
+  },
+  {
+    "Food_EN":"Cabbage, red, raw",
+    "Food_TR":"Cabbage (çiğ)"
+  },
+  {
+    "Food_EN":"Strawberries, raw",
+    "Food_TR":"Çilek (çiğ)"
+  },
+  {
+    "Food_EN":"Raspberries, raw",
+    "Food_TR":"Raspberries (çiğ)"
+  },
+  {
+    "Food_EN":"Blueberries, raw",
+    "Food_TR":"Blueberries (çiğ)"
+  },
+  {
+    "Food_EN":"Grapes, red, seedless, raw",
+    "Food_TR":"Üzüm (çiğ, çekirdeksiz)"
+  },
+  {
+    "Food_EN":"Grapes, green, seedless, raw",
+    "Food_TR":"Üzüm (çiğ, çekirdeksiz)"
+  },
+  {
+    "Food_EN":"Applesauce, unsweetened, with added vitamin C",
+    "Food_TR":"Elma (şekersiz)"
+  },
+  {
+    "Food_EN":"Flour, amaranth",
+    "Food_TR":"Un"
+  },
+  {
+    "Food_EN":"Flour, quinoa",
+    "Food_TR":"Un"
+  },
+  {
+    "Food_EN":"Flour, sorghum",
+    "Food_TR":"Un"
+  },
+  {
+    "Food_EN":"Flour, buckwheat",
+    "Food_TR":"Un"
+  },
+  {
+    "Food_EN":"Flour, rye",
+    "Food_TR":"Un"
+  },
+  {
+    "Food_EN":"Flour, barley",
+    "Food_TR":"Un"
+  },
+  {
+    "Food_EN":"Flour, cassava",
+    "Food_TR":"Un"
+  },
+  {
+    "Food_EN":"Buckwheat, whole grain",
+    "Food_TR":"Buckwheat"
+  },
+  {
+    "Food_EN":"Millet, whole grain",
+    "Food_TR":"Millet"
+  },
+  {
+    "Food_EN":"Rice, brown, long grain, unenriched, raw",
+    "Food_TR":"Pirinç (çiğ)"
+  },
+  {
+    "Food_EN":"Rice, white, long grain, unenriched, raw",
+    "Food_TR":"Pirinç (çiğ)"
+  },
+  {
+    "Food_EN":"Beef, ground, 90% lean meat \/ 10% fat, raw",
+    "Food_TR":"Dana Eti (çiğ)"
+  },
+  {
+    "Food_EN":"Beef, ground, 80% lean meat \/ 20% fat, raw",
+    "Food_TR":"Dana Eti (çiğ)"
+  },
+  {
+    "Food_EN":"Pork, ground, raw",
+    "Food_TR":"Domuz Eti (çiğ)"
+  },
+  {
+    "Food_EN":"Chicken, ground, with additives, raw",
+    "Food_TR":"Tavuk (çiğ)"
+  },
+  {
+    "Food_EN":"Turkey, ground, 93% lean\/ 7% fat, raw",
+    "Food_TR":"Hindi (çiğ)"
+  },
+  {
+    "Food_EN":"Nuts, brazilnuts, raw",
+    "Food_TR":"Kuruyemiş (çiğ)"
+  },
+  {
+    "Food_EN":"Nuts, cashew nuts, raw",
+    "Food_TR":"Kuruyemiş (çiğ)"
+  },
+  {
+    "Food_EN":"Nuts, hazelnuts or filberts, raw",
+    "Food_TR":"Kuruyemiş (çiğ)"
+  },
+  {
+    "Food_EN":"Peanuts, raw",
+    "Food_TR":"Kuruyemiş (çiğ)"
+  },
+  {
+    "Food_EN":"Flour, chestnut",
+    "Food_TR":"Un"
+  },
+  {
+    "Food_EN":"Nuts, macadamia nuts, raw",
+    "Food_TR":"Kuruyemiş (çiğ)"
+  },
+  {
+    "Food_EN":"Nuts, pistachio nuts, raw",
+    "Food_TR":"Kuruyemiş (çiğ)"
+  },
+  {
+    "Food_EN":"Seeds, pumpkin seeds (pepitas), raw",
+    "Food_TR":"Seeds (çiğ)"
+  },
+  {
+    "Food_EN":"Seeds, sunflower seed, kernel, raw",
+    "Food_TR":"Seeds (çiğ)"
+  },
+  {
+    "Food_EN":"Flour, coconut",
+    "Food_TR":"Un"
+  },
+  {
+    "Food_EN":"Beans, cannellini, dry",
+    "Food_TR":"Fasulye"
+  },
+  {
+    "Food_EN":"Chickpeas, (garbanzo beans, bengal gram), dry",
+    "Food_TR":"Fasulye"
+  },
+  {
+    "Food_EN":"Lentils, dry",
+    "Food_TR":"Mercimek"
+  },
+  {
+    "Food_EN":"Blackeye pea, dry",
+    "Food_TR":"Blackeye pea"
+  },
+  {
+    "Food_EN":"Beans, black, canned, sodium added, drained and rinsed",
+    "Food_TR":"Fasulye (konserve)"
+  },
+  {
+    "Food_EN":"Beans, navy, canned, sodium added, drained and rinsed",
+    "Food_TR":"Fasulye (konserve)"
+  },
+  {
+    "Food_EN":"Beans, cannellini, canned, sodium added, drained and rinsed",
+    "Food_TR":"Fasulye (konserve)"
+  },
+  {
+    "Food_EN":"Chickpeas (garbanzo beans, bengal gram), canned, sodium added, drained and rinsed",
+    "Food_TR":"Fasulye (konserve)"
+  },
+  {
+    "Food_EN":"Beans, kidney, dark red, canned, sodium added, sugar added, drained and rinsed",
+    "Food_TR":"Fasulye (konserve)"
+  },
+  {
+    "Food_EN":"Beans, kidney, light red, canned, sodium added, sugar added, drained and rinsed",
+    "Food_TR":"Fasulye (konserve)"
+  },
+  {
+    "Food_EN":"Peas, green, sweet, canned, sodium added, sugar added, drained and rinsed",
+    "Food_TR":"Bezelye (konserve)"
+  },
+  {
+    "Food_EN":"Beans, pinto, canned, sodium added, drained and rinsed",
+    "Food_TR":"Fasulye (konserve)"
+  },
+  {
+    "Food_EN":"Blackeye pea, canned, sodium added, drained and rinsed",
+    "Food_TR":"Blackeye pea (konserve)"
+  },
+  {
+    "Food_EN":"Beans, great northern, canned, sodium added, drained and rinsed",
+    "Food_TR":"Fasulye (konserve)"
+  },
+  {
+    "Food_EN":"Pork, loin, boneless, raw",
+    "Food_TR":"Domuz Eti (çiğ)"
+  },
+  {
+    "Food_EN":"Pork, loin, tenderloin, boneless, raw",
+    "Food_TR":"Domuz Eti (çiğ)"
+  },
+  {
+    "Food_EN":"Chicken, breast, boneless, skinless, raw",
+    "Food_TR":"Tavuk (çiğ)"
+  },
+  {
+    "Food_EN":"Chicken, thigh, boneless, skinless, raw",
+    "Food_TR":"Tavuk (çiğ)"
+  },
+  {
+    "Food_EN":"Beef, ribeye, steak, boneless, choice, raw",
+    "Food_TR":"Dana Eti (çiğ)"
+  },
+  {
+    "Food_EN":"Beef, round, top round, boneless, choice, raw",
+    "Food_TR":"Dana Eti (çiğ)"
+  },
+  {
+    "Food_EN":"Beef, chuck, roast, boneless, choice, raw",
+    "Food_TR":"Dana Eti (çiğ)"
+  },
+  {
+    "Food_EN":"Beef, flank, steak, boneless, choice, raw",
+    "Food_TR":"Dana Eti (çiğ)"
+  },
+  {
+    "Food_EN":"Yogurt, plain, nonfat",
+    "Food_TR":"Yoğurt (yağsız)"
+  },
+  {
+    "Food_EN":"Cheese, monterey jack, solid",
+    "Food_TR":"Peynir"
+  },
+  {
+    "Food_EN":"Cheese, pasteurized process cheese food or product, American, singles",
+    "Food_TR":"Peynir"
+  },
+  {
+    "Food_EN":"Cheese, provolone, sliced",
+    "Food_TR":"Peynir"
+  },
+  {
+    "Food_EN":"Cheese, oaxaca, solid",
+    "Food_TR":"Peynir"
+  },
+  {
+    "Food_EN":"Cheese, queso fresco, solid",
+    "Food_TR":"Peynir"
+  },
+  {
+    "Food_EN":"Cheese, cotija, solid",
+    "Food_TR":"Peynir"
+  },
+  {
+    "Food_EN":"Fish, salmon, sockeye, wild caught, raw",
+    "Food_TR":"Balık (çiğ)"
+  },
+  {
+    "Food_EN":"Fish, salmon, Atlantic, farm raised, raw",
+    "Food_TR":"Balık (çiğ)"
+  },
+  {
+    "Food_EN":"Fish, tilapia, farm raised, raw",
+    "Food_TR":"Balık (çiğ)"
+  },
+  {
+    "Food_EN":"Crustaceans, shrimp, farm raised, raw",
+    "Food_TR":"Crustaceans (çiğ)"
+  },
+  {
+    "Food_EN":"Fish, cod, Atlantic, wild caught, raw",
+    "Food_TR":"Morina Balığı (çiğ)"
+  },
+  {
+    "Food_EN":"Fish, catfish, farm raised, raw",
+    "Food_TR":"Balık (çiğ)"
+  },
+  {
+    "Food_EN":"Crustaceans, crab, blue swimming, lump, pasteurized, refrigerated",
+    "Food_TR":"Crustaceans"
+  },
+  {
+    "Food_EN":"Squash, summer, green, zucchini, includes skin, raw",
+    "Food_TR":"Kabak (çiğ)"
+  },
+  {
+    "Food_EN":"Squash, summer, yellow, includes skin, raw",
+    "Food_TR":"Kabak (çiğ)"
+  },
+  {
+    "Food_EN":"Squash, winter, butternut, raw",
+    "Food_TR":"Tereyağı (çiğ)"
+  },
+  {
+    "Food_EN":"Squash, winter, acorn, raw",
+    "Food_TR":"Kabak (çiğ)"
+  },
+  {
+    "Food_EN":"Cabbage, bok choy, raw",
+    "Food_TR":"Cabbage (çiğ)"
+  },
+  {
+    "Food_EN":"Cauliflower, raw",
+    "Food_TR":"Cauliflower (çiğ)"
+  },
+  {
+    "Food_EN":"Collards, raw",
+    "Food_TR":"Collards (çiğ)"
+  },
+  {
+    "Food_EN":"Brussels sprouts, raw",
+    "Food_TR":"Brussels sprouts (çiğ)"
+  },
+  {
+    "Food_EN":"Beets, raw",
+    "Food_TR":"Pancar (çiğ)"
+  },
+  {
+    "Food_EN":"Eggplant, raw",
+    "Food_TR":"Yumurta (çiğ)"
+  },
+  {
+    "Food_EN":"Tomatoes, whole, canned, solids and liquids, with salt added",
+    "Food_TR":"Domates (konserve)"
+  },
+  {
+    "Food_EN":"Tomato, sauce, canned, with salt added",
+    "Food_TR":"Domates (konserve)"
+  },
+  {
+    "Food_EN":"Tomato, paste, canned, without salt added",
+    "Food_TR":"Domates (konserve)"
+  },
+  {
+    "Food_EN":"Tomatoes, crushed, canned",
+    "Food_TR":"Domates (konserve)"
+  },
+  {
+    "Food_EN":"Tomato, puree, canned",
+    "Food_TR":"Domates (konserve)"
+  },
+  {
+    "Food_EN":"Apricot, with skin, raw",
+    "Food_TR":"Kayısı (çiğ, kabuklu)"
+  },
+  {
+    "Food_EN":"Melons, honeydew, raw",
+    "Food_TR":"Melons (çiğ)"
+  },
+  {
+    "Food_EN":"Plantains, ripe, raw",
+    "Food_TR":"Plantains (çiğ)"
+  },
+  {
+    "Food_EN":"Plantains, underripe, raw",
+    "Food_TR":"Plantains (çiğ)"
+  },
+  {
+    "Food_EN":"Chia seeds, dry, raw",
+    "Food_TR":"Chia seeds (çiğ)"
+  },
+  {
+    "Food_EN":"Bulgur, dry, raw",
+    "Food_TR":"Bulgur (çiğ)"
+  },
+  {
+    "Food_EN":"Wild rice, dry, raw",
+    "Food_TR":"Pirinç (çiğ)"
+  },
+  {
+    "Food_EN":"Arugula, baby, raw",
+    "Food_TR":"Roka (çiğ)"
+  },
+  {
+    "Food_EN":"Asparagus, green, raw",
+    "Food_TR":"Kuşkonmaz (çiğ)"
+  },
+  {
+    "Food_EN":"Avocado, Hass, peeled, raw",
+    "Food_TR":"Avokado (çiğ, soyulmuş)"
+  },
+  {
+    "Food_EN":"Rice, black, unenriched, raw",
+    "Food_TR":"Pirinç (çiğ)"
+  },
+  {
+    "Food_EN":"Corn, sweet, yellow and white kernels,  fresh, raw",
+    "Food_TR":"Corn (çiğ)"
+  },
+  {
+    "Food_EN":"Einkorn, grain, dry, raw",
+    "Food_TR":"Einkorn (çiğ)"
+  },
+  {
+    "Food_EN":"Farro, pearled, dry, raw",
+    "Food_TR":"Farro (çiğ)"
+  },
+  {
+    "Food_EN":"Fonio, grain, dry, raw",
+    "Food_TR":"Fonio (çiğ)"
+  },
+  {
+    "Food_EN":"Khorasan, grain, dry, raw",
+    "Food_TR":"Khorasan (çiğ)"
+  },
+  {
+    "Food_EN":"Kiwifruit (kiwi), green, peeled, raw",
+    "Food_TR":"Kiwifruit (kiwi) (çiğ, soyulmuş)"
+  },
+  {
+    "Food_EN":"Mandarin, seedless, peeled, raw",
+    "Food_TR":"Mandarin (çiğ, soyulmuş, çekirdeksiz)"
+  },
+  {
+    "Food_EN":"Mango, Tommy Atkins, peeled, raw",
+    "Food_TR":"Mango (çiğ, soyulmuş)"
+  },
+  {
+    "Food_EN":"Mango, Ataulfo, peeled, raw",
+    "Food_TR":"Mango (çiğ, soyulmuş)"
+  },
+  {
+    "Food_EN":"Corn flour, masa harina, white or yellow, dry, raw",
+    "Food_TR":"Un (çiğ)"
+  },
+  {
+    "Food_EN":"Pear, Anjou, green, with skin, raw",
+    "Food_TR":"Pear (çiğ, kabuklu)"
+  },
+  {
+    "Food_EN":"Plum, black, with skin, raw",
+    "Food_TR":"Plum (çiğ, kabuklu)"
+  },
+  {
+    "Food_EN":"Rice, red, unenriched, dry, raw",
+    "Food_TR":"Pirinç (çiğ)"
+  },
+  {
+    "Food_EN":"Sorghum bran, white, unenriched, dry, raw",
+    "Food_TR":"Sorghum bran (çiğ)"
+  },
+  {
+    "Food_EN":"Sorghum flour, white, pearled, unenriched, dry, raw",
+    "Food_TR":"Un (çiğ)"
+  },
+  {
+    "Food_EN":"Sorghum grain, white, pearled, unenriched, dry, raw",
+    "Food_TR":"Sorghum grain (çiğ)"
+  },
+  {
+    "Food_EN":"Sorghum, whole grain, white, dry, raw",
+    "Food_TR":"Sorghum (çiğ)"
+  },
+  {
+    "Food_EN":"Plantains, overripe, raw",
+    "Food_TR":"Plantains (çiğ)"
+  },
+  {
+    "Food_EN":"Chicken, drumstick, meat and skin, raw",
+    "Food_TR":"Tavuk (çiğ)"
+  },
+  {
+    "Food_EN":"Chicken, thigh, meat and skin, raw",
+    "Food_TR":"Tavuk (çiğ)"
+  },
+  {
+    "Food_EN":"Chicken, wing, meat and skin, raw",
+    "Food_TR":"Tavuk (çiğ)"
+  },
+  {
+    "Food_EN":"Chicken, breast, meat and skin, raw",
+    "Food_TR":"Tavuk (çiğ)"
+  },
+  {
+    "Food_EN":"Lamb, ground, raw",
+    "Food_TR":"Lamb (çiğ)"
+  },
+  {
+    "Food_EN":"Bison, ground, raw",
+    "Food_TR":"Bizon Eti (çiğ)"
+  },
+  {
+    "Food_EN":"Beef, short loin (NY strip steak), raw",
+    "Food_TR":"Dana Eti (çiğ)"
+  },
+  {
+    "Food_EN":"Beef, tenderloin steak, raw",
+    "Food_TR":"Dana Eti (çiğ)"
+  },
+  {
+    "Food_EN":"Beef, top sirloin steak, raw",
+    "Food_TR":"Dana Eti (çiğ)"
+  },
+  {
+    "Food_EN":"Pork, chop, center cut, raw",
+    "Food_TR":"Domuz Eti (çiğ)"
+  },
+  {
+    "Food_EN":"Pork, belly, with skin, raw",
+    "Food_TR":"Domuz Eti (çiğ, kabuklu)"
+  },
+  {
+    "Food_EN":"Pawpaw, peeled, seeded, raw",
+    "Food_TR":"Pawpaw (çiğ, soyulmuş)"
+  },
+  {
+    "Food_EN":"Squash, pie pumpkin, peeled, seeded, raw",
+    "Food_TR":"Kabak (çiğ, soyulmuş)"
+  },
+  {
+    "Food_EN":"Squash, spaghetti, peeled, seeded, raw",
+    "Food_TR":"Kabak (çiğ, soyulmuş)"
+  },
+  {
+    "Food_EN":"Rutabaga, peeled, raw",
+    "Food_TR":"Rutabaga (çiğ, soyulmuş)"
+  },
+  {
+    "Food_EN":"Blackberries, raw",
+    "Food_TR":"Blackberries (çiğ)"
+  },
+  {
+    "Food_EN":"Tomatillos, dehusked, raw",
+    "Food_TR":"Tomatillos (çiğ)"
+  },
+  {
+    "Food_EN":"Cabbage, napa, leaf, destemmed, raw",
+    "Food_TR":"Cabbage (çiğ)"
+  },
+  {
+    "Food_EN":"Leeks, bulb and greens, root removed, raw",
+    "Food_TR":"Leeks (çiğ)"
+  },
+  {
+    "Food_EN":"Green onion, (scallion), bulb and greens, root removed, raw",
+    "Food_TR":"Soğan (çiğ)"
+  },
+  {
+    "Food_EN":"Shallots, bulb, peeled, root removed, raw",
+    "Food_TR":"Shallots (çiğ, soyulmuş)"
+  },
+  {
+    "Food_EN":"Juice, prune, shelf-stable",
+    "Food_TR":"Juice"
+  },
+  {
+    "Food_EN":"Juice, pomegranate, from concentrate, shelf-stable",
+    "Food_TR":"Juice (konsantreden)"
+  },
+  {
+    "Food_EN":"Juice, tart cherry, from concentrate, shelf-stable",
+    "Food_TR":"Juice (konsantreden)"
+  },
+  {
+    "Food_EN":"Anchovies, canned in olive oil, with salt, drained",
+    "Food_TR":"Yağ (konserve)"
+  },
+  {
+    "Food_EN":"Beet greens, raw",
+    "Food_TR":"Pancar (çiğ)"
+  },
+  {
+    "Food_EN":"Cod, Pacific or Alaskan, frozen, wild caught",
+    "Food_TR":"Morina Balığı (dondurulmuş)"
+  },
+  {
+    "Food_EN":"Fennel, bulb, raw",
+    "Food_TR":"Fennel (çiğ)"
+  },
+  {
+    "Food_EN":"Halibut, frozen, wild caught",
+    "Food_TR":"Halibut (dondurulmuş)"
+  },
+  {
+    "Food_EN":"Lobster, tail only, frozen, wild caught",
+    "Food_TR":"Lobster (dondurulmuş)"
+  },
+  {
+    "Food_EN":"Mahi mahi, frozen, wild caught",
+    "Food_TR":"Mahi mahi (dondurulmuş)"
+  },
+  {
+    "Food_EN":"Parsnips, raw",
+    "Food_TR":"Parsnips (çiğ)"
+  },
+  {
+    "Food_EN":"Peppers, banana or Hungarian wax, seeded, raw",
+    "Food_TR":"Muz (çiğ)"
+  },
+  {
+    "Food_EN":"Peppers, jalapeno, seeded, raw",
+    "Food_TR":"Biber (çiğ)"
+  },
+  {
+    "Food_EN":"Peppers, poblano, seeded, raw",
+    "Food_TR":"Biber (çiğ)"
+  },
+  {
+    "Food_EN":"Peppers, serrano, seeded, raw",
+    "Food_TR":"Biber (çiğ)"
+  },
+  {
+    "Food_EN":"Radicchio, raw",
+    "Food_TR":"Radicchio (çiğ)"
+  },
+  {
+    "Food_EN":"Radishes, red, raw",
+    "Food_TR":"Radishes (çiğ)"
+  },
+  {
+    "Food_EN":"Scallops, bay, Patagonian, frozen, wild caught",
+    "Food_TR":"Scallops (dondurulmuş)"
+  },
+  {
+    "Food_EN":"Scallops, sea, frozen, wild caught",
+    "Food_TR":"Scallops (dondurulmuş)"
+  },
+  {
+    "Food_EN":"Sea bass, Chilean, frozen, wild caught",
+    "Food_TR":"Sea bass (dondurulmuş)"
+  },
+  {
+    "Food_EN":"Snapper, frozen, wild caught",
+    "Food_TR":"Snapper (dondurulmuş)"
+  },
+  {
+    "Food_EN":"Snow crab, legs only, frozen  ",
+    "Food_TR":"Snow crab (dondurulmuş)"
+  },
+  {
+    "Food_EN":"Squid (calamari), frozen, tubes only",
+    "Food_TR":"Squid (calamari) (dondurulmuş)"
+  },
+  {
+    "Food_EN":"Swordfish, frozen, wild caught",
+    "Food_TR":"Balık (dondurulmuş)"
+  },
+  {
+    "Food_EN":"Tuna, ahi or yellowfin, frozen, wild caught",
+    "Food_TR":"Ton Balığı (dondurulmuş)"
+  },
+  {
+    "Food_EN":"Turnips, raw",
+    "Food_TR":"Turnips (çiğ)"
+  },
+  {
+    "Food_EN":"Watermelon, seedless, flesh only, raw",
+    "Food_TR":"Watermelon (çiğ, çekirdeksiz)"
+  },
+  {
+    "Food_EN":"Watermelon, seedless, rind only, raw",
+    "Food_TR":"Watermelon (çiğ, çekirdeksiz)"
+  }
+]
